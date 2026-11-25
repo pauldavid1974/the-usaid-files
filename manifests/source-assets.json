@@ -1,0 +1,37 @@
+[
+  {
+    "path": "mirrors/mirror.html",
+    "url": "https://usaid-files.vercel.app/",
+    "bytes": 48872,
+    "sha256": "17fe385bf55ee3cc1db2b5f6a01a2355b734303603c5b40d6aa8ee82ea92cfda",
+    "local_mtime_utc": "2026-11-25T18:14:13.167754+00:00"
+  },
+  {
+    "path": "mirrors/about.html",
+    "url": "https://usaid-files.vercel.app/about/",
+    "bytes": 28013,
+    "sha256": "909538bca197de99e37662f807fc3e5ba4041191eecce15be568b39d74f8253f",
+    "local_mtime_utc": "2026-11-25T18:16:10.223989+00:00"
+  },
+  {
+    "path": "mirrors/llms.txt",
+    "url": "https://usaid-files.vercel.app/llms.txt",
+    "bytes": 78348,
+    "sha256": "de34160e870fdc8ef74b04a576e5b5335a15f9fdd53b11b0a6b69ac3478af677",
+    "local_mtime_utc": "2026-11-25T18:16:09.946911+00:00"
+  },
+  {
+    "path": "mirrors/llms-full.txt",
+    "url": "https://usaid-files.vercel.app/llms-full.txt",
+    "bytes": 5262778,
+    "sha256": "e0f7b964a46520c416a69b65020478f9a7be7e47e4127aebc47961a0e094707b",
+    "local_mtime_utc": "2026-11-25T18:14:12.933949+00:00"
+  },
+  {
+    "path": "mirrors/sample-mirror.md",
+    "url": "https://usaid-files.vercel.app/archive/text/usaid-disinformation-primer-3-5-21-final-public-18db212f9db2.md",
+    "bytes": 316068,
+    "sha256": "40c0b4feabdd68d318005e90dd5a64df23c8f5c99b2a2d1e5a4417d73f3f0b83",
+    "local_mtime_utc": "2026-11-25T18:16:11.572973+00:00"
+  }
+]

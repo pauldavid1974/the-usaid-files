@@ -1,0 +1,123 @@
+{
+  "verified_utc": "2026-11-25T18:45:35.464065+00:00",
+  "government_files": 0,
+  "mirror_files": 248,
+  "mirror_bytes": 1142469329,
+  "repeated_mirror_hashes": {},
+  "official_zip_bytes": null,
+  "pdf_pages": 2160,
+  "workbook_rows": 229,
+  "workbook_cells": 741,
+  "media": [
+    {
+      "id": "publication-066",
+      "format": "mp4",
+      "byte_source": "mirror",
+      "local_methods": {
+        "local ASR, review against recording": 136
+      },
+      "mirror_segments": 1326,
+      "error": null
+    },
+    {
+      "id": "publication-047",
+      "format": "mp4",
+      "byte_source": "mirror",
+      "local_methods": {
+        "local ASR, review against recording": 81
+      },
+      "mirror_segments": 368,
+      "error": null
+    },
+    {
+      "id": "publication-001",
+      "format": "mp4",
+      "byte_source": "mirror",
+      "local_methods": {
+        "local ASR, review against recording": 114
+      },
+      "mirror_segments": 473,
+      "error": null
+    }
+  ],
+  "passages": [
+    {
+      "source": "catalog",
+      "method": "official kind and mirror metadata",
+      "passages": 248
+    },
+    {
+      "source": "mirror",
+      "method": "PDF text layer",
+      "passages": 1639
+    },
+    {
+      "source": "mirror",
+      "method": "local ASR, review against recording",
+      "passages": 331
+    },
+    {
+      "source": "mirror",
+      "method": "local OCR, review against page",
+      "passages": 518
+    },
+    {
+      "source": "mirror",
+      "method": "spreadsheet cells",
+      "passages": 229
+    },
+    {
+      "source": "mirror",
+      "method": "visual review: fully redacted",
+      "passages": 1
+    },
+    {
+      "source": "mirror",
+      "method": "visual review: no visible text",
+      "passages": 1
+    },
+    {
+      "source": "mirror",
+      "method": "visually transcribed visible attachment label",
+      "passages": 1
+    },
+    {
+      "source": "supplement",
+      "method": "mirror OCR",
+      "passages": 1008
+    },
+    {
+      "source": "supplement",
+      "method": "mirror extraction",
+      "passages": 1199
+    },
+    {
+      "source": "supplement",
+      "method": "mirror supplied caption",
+      "passages": 2167
+    }
+  ],
+  "differing_records": 67,
+  "differing_types": 48,
+  "text_flags": 91,
+  "workspace_logical_bytes": 1956820608,
+  "bytes_by_top_level": {
+    "acquire.py": 7233,
+    "AGENTS.md": 3955,
+    "catalog.py": 4229,
+    "requirements.txt": 86,
+    "research.py": 21245,
+    "START-HERE.md": 3663,
+    "transcribe.py": 1859,
+    "verify.py": 7059,
+    ".models": 147770612,
+    ".venv": 633128249,
+    "findings": 4779,
+    "index": 20975616,
+    "manifests": 381728,
+    "mirrors": 1148203408,
+    "text": 5678690,
+    "transcripts": 577607,
+    "__pycache__": 50590
+  }
+}

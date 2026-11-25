@@ -1,0 +1,996 @@
+[
+  {
+    "id": "publication-083",
+    "filename": "04-09-24-briefer-for-daa-guilarte-meeting-with-meta-cam-097544194b54.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Briefing",
+    "text_review_flags": [],
+    "indexed_date": "2024-04-09",
+    "mirror_date": "2024-04-09"
+  },
+  {
+    "id": "publication-085",
+    "filename": "12072022-alphabet-global-election-protection-efforts-and-lessons-learned-3fec5811f9a7.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 2",
+        "score": 66.7
+      }
+    ],
+    "indexed_date": "2022-12-07",
+    "mirror_date": "2022-12-07"
+  },
+  {
+    "id": "publication-002",
+    "filename": "2b-final-briefer-information-resilience-council-agency-kick-off-meeting-2899953371e4.pdf",
+    "catalog_kind": "Briefing",
+    "mirror_kind": "Briefing",
+    "text_review_flags": [
+      {
+        "locator": "Page 31",
+        "score": 69.1
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-003",
+    "filename": "3a-im-on-usaids-response-to-disinformation-across-bureaus-february-22-2022-7d2255cb4195.pdf",
+    "catalog_kind": "Information memo",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 9",
+        "score": 38.3
+      },
+      {
+        "locator": "Page 10",
+        "score": 38.8
+      },
+      {
+        "locator": "Page 46",
+        "score": 35.0
+      },
+      {
+        "locator": "Page 54",
+        "score": 22.4
+      },
+      {
+        "locator": "Page 68",
+        "score": 56.9
+      }
+    ],
+    "indexed_date": "2022-02-22",
+    "mirror_date": "2022-02-22"
+  },
+  {
+    "id": "publication-004",
+    "filename": "3h-im-on-disinformation-response-ddi-drg-july-12-2022-12524f7fd14f.pdf",
+    "catalog_kind": "Information memo",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": "2022-07-11",
+    "mirror_date": "2022-07-12"
+  },
+  {
+    "id": "publication-008",
+    "filename": "a-aid-feedback-on-drg-mdm-memo-196e4164da5b.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-009",
+    "filename": "a-aid-feedback-on-mdm-response-to-feb-disinfo-im-redacted-5458604fefe1.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-010",
+    "filename": "a-aid-mdm-memo-es-88e831293f3e.pdf",
+    "catalog_kind": "Information memo",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-005",
+    "filename": "a-usaid-info-memo-6be5ada57d12.pdf",
+    "catalog_kind": "Information memo",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": "2022-06-02",
+    "mirror_date": null
+  },
+  {
+    "id": "publication-078",
+    "filename": "acan-bankrolling-bigotry-in-germany-5a51327c1df4.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-006",
+    "filename": "acvfa-dis-misinformation-2dd981ce973d.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-007",
+    "filename": "aeo-information-disorder-complete-presentation-updated-for-nov-9-and-15-2021-sanitized-a165377c9b2a.pdf",
+    "catalog_kind": "Presentation",
+    "mirror_kind": "Presentation",
+    "text_review_flags": [
+      {
+        "locator": "Page 9",
+        "score": 61.9
+      },
+      {
+        "locator": "Page 14",
+        "score": 30.8
+      },
+      {
+        "locator": "Page 19",
+        "score": 62.2
+      },
+      {
+        "locator": "Page 24",
+        "score": 41.4
+      },
+      {
+        "locator": "Page 32",
+        "score": 47.1
+      },
+      {
+        "locator": "Page 34",
+        "score": 64.2
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-011",
+    "filename": "agency-information-integrity-efforts-a434785e6ed2.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 18",
+        "score": 48.6
+      }
+    ],
+    "indexed_date": "2023-01-20",
+    "mirror_date": "2023-01-20"
+  },
+  {
+    "id": "publication-013",
+    "filename": "anti-viral-media-squad-one-pager-3223fc01aabd.pdf",
+    "catalog_kind": "Fact sheet",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-094",
+    "filename": "belarusian-independent-media-and-bigtech-briefing-paper-january-2024-0e5ea9adffff.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Briefing",
+    "text_review_flags": [
+      {
+        "locator": "Page 4",
+        "score": 65.2
+      },
+      {
+        "locator": "Page 5",
+        "score": 62.2
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-096",
+    "filename": "brazil-fta-youtube-white-paper-485524789f38.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 14",
+        "score": 0.0
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-253",
+    "filename": "chatlog-jmachleder-lmeils-20210124-e0b04097c616.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Chat log",
+    "text_review_flags": [],
+    "indexed_date": "2021-01-24",
+    "mirror_date": "2021-01-24"
+  },
+  {
+    "id": "publication-254",
+    "filename": "chatlog-vzakem-jowalsh-20220712-e595433faa4e.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Chat log",
+    "text_review_flags": [],
+    "indexed_date": "2022-07-12",
+    "mirror_date": "2022-07-12"
+  },
+  {
+    "id": "publication-255",
+    "filename": "chatlog-vzakem-jowalsh-20220812-7a2c7f0bd427.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Chat log",
+    "text_review_flags": [],
+    "indexed_date": "2022-08-12",
+    "mirror_date": "2022-08-12"
+  },
+  {
+    "id": "publication-017",
+    "filename": "ddi-drg-power-briefing-e2f0f94cde04.pdf",
+    "catalog_kind": "Briefing",
+    "mirror_kind": "Briefing",
+    "text_review_flags": [
+      {
+        "locator": "Page 17",
+        "score": 58.0
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-019",
+    "filename": "digital-development-briefer-for-deputy-administrator-coleman-13ff6ce18909.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Briefing",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-020",
+    "filename": "digital-threats-to-civic-space-a43c141b80b2.pdf",
+    "catalog_kind": "Presentation",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 6",
+        "score": 69.5
+      },
+      {
+        "locator": "Page 9",
+        "score": 62.0
+      },
+      {
+        "locator": "Page 11",
+        "score": 67.6
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-058",
+    "filename": "disinformation-66891e81ac30.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-022",
+    "filename": "disinformation-activity-data-sheet-b61218963f8b.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 25",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 26",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 27",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 45",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 46",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 47",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 48",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 77",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 78",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 79",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 89",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 90",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 91",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 93",
+        "score": 0.0
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-103",
+    "filename": "draft-agenda-and-potential-talking-points-for-me-1zytoq9itpfliytxltyybmvyzsxzcddzxce7p8b-wrze-054a6b556c5f.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Briefing",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-018",
+    "filename": "drg-ker-ii-mdm-program-review-n088-final-14aug2023-dwj-edits-on-trust-and-safety-3-redacted-75677cd163f4.pdf",
+    "catalog_kind": "Program review",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 1",
+        "score": 19.8
+      },
+      {
+        "locator": "Page 28",
+        "score": 19.0
+      },
+      {
+        "locator": "Page 31",
+        "score": 54.0
+      }
+    ],
+    "indexed_date": "2023-08-14",
+    "mirror_date": "2023-08-14"
+  },
+  {
+    "id": "publication-024",
+    "filename": "fbs-5i-mdm-response-to-feb-2022-disinfo-im-november-7-2022-eebcf5c11771.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 1",
+        "score": 69.9
+      }
+    ],
+    "indexed_date": "2022-11-07",
+    "mirror_date": "2022-11-07"
+  },
+  {
+    "id": "publication-025",
+    "filename": "final-democracy-anticorruption-backsliding-opportunities-session-md-conference-3029295af423.pdf",
+    "catalog_kind": "Presentation",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 14",
+        "score": 66.7
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-026",
+    "filename": "final-version-usaid-asia-25-feb-2020-ba1c7d1c9141.pdf",
+    "catalog_kind": "Presentation",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 3",
+        "score": 26.7
+      },
+      {
+        "locator": "Page 15",
+        "score": 57.9
+      },
+      {
+        "locator": "Page 23",
+        "score": 66.4
+      }
+    ],
+    "indexed_date": "2020-02-25",
+    "mirror_date": "2020-02-25"
+  },
+  {
+    "id": "publication-028",
+    "filename": "for-your-flash-clearance-usaid-feedback-for-information-integrity-resilience-iir-ipc-8ddb8ab53c3d.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-029",
+    "filename": "friend-or-foe-one-pager-30c8dde11599.pdf",
+    "catalog_kind": "Fact sheet",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-108",
+    "filename": "from-usaid-tech-hr-defenders-mapping-spreadsheet-working-draft-1-cb46849be973.xlsx",
+    "catalog_kind": "Spreadsheet",
+    "mirror_kind": "Spreadsheet",
+    "text_review_flags": [
+      {
+        "locator": "Company Practices!M4",
+        "reason": "cell text differs"
+      },
+      {
+        "locator": "Initiatives!E2",
+        "reason": "cell text differs"
+      },
+      {
+        "locator": "Initiatives!K28",
+        "reason": "cell text differs"
+      },
+      {
+        "locator": "Initiatives!N30",
+        "reason": "cell text differs"
+      },
+      {
+        "locator": "Initiatives, row 38!A38",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives, row 38!B38",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives, row 38!D38",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives, row 38!F38",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives, row 38!G38",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives, row 38!I38",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives, row 38!K38",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives, row 38!N38",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives!A38",
+        "reason": "cell missing from mirror export"
+      },
+      {
+        "locator": "Initiatives!B38",
+        "reason": "cell missing from mirror export"
+      },
+      {
+        "locator": "Initiatives!D38",
+        "reason": "cell missing from mirror export"
+      },
+      {
+        "locator": "Initiatives!F38",
+        "reason": "cell missing from mirror export"
+      },
+      {
+        "locator": "Initiatives!G38",
+        "reason": "cell missing from mirror export"
+      },
+      {
+        "locator": "Initiatives!I38",
+        "reason": "cell missing from mirror export"
+      },
+      {
+        "locator": "Initiatives!K38",
+        "reason": "cell missing from mirror export"
+      },
+      {
+        "locator": "Initiatives!N38",
+        "reason": "cell missing from mirror export"
+      }
+    ],
+    "indexed_date": "2020-06-30",
+    "mirror_date": "2020-06-30"
+  },
+  {
+    "id": "publication-120",
+    "filename": "fwd-external-fwd-follow-up-youtube-nsc-sync-on-russia-f4c548af1b30.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Email",
+    "text_review_flags": [
+      {
+        "locator": "Page 4",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 6",
+        "score": 0.0
+      }
+    ],
+    "indexed_date": "2022-12-22",
+    "mirror_date": null
+  },
+  {
+    "id": "publication-082",
+    "filename": "gdi-call-for-country-partners-media-market-reports-23-redacted-b35de7477abf.pdf",
+    "catalog_kind": "Call for partners",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-064",
+    "filename": "gdi-d-rogers-usaid-1ea6d0865e8a.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 17",
+        "score": 48.9
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-065",
+    "filename": "gdi-usaid-concept-note-august-2022-293a61098fd0.pdf",
+    "catalog_kind": "Concept note",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-059",
+    "filename": "ifes-working-paper-social-media-disinformation-and-electoral-integrity-august-2019-0-7835f4f09415.pdf",
+    "catalog_kind": "Paper",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-033",
+    "filename": "information-ecosystem-theme-team-update-92e4bba31a88.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-123",
+    "filename": "injunction-and-content-moderation-talking-points-for-the-committee-folks-6210bbd4bce2.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Briefing",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-125",
+    "filename": "invitation-usaid-meta-re-trusted-partners-and-ukraine-thu-mar-31-2022-3-30pm-4-30pm-ast-12e594ae7e63.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Email",
+    "text_review_flags": [],
+    "indexed_date": "2022-03-31",
+    "mirror_date": "2022-03-31"
+  },
+  {
+    "id": "publication-067",
+    "filename": "meeting-with-daniel-rogers-disinfo-index-ce473f144f23.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-127",
+    "filename": "meta-speech-integrity-session-slides-81b05a94da3d.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Presentation",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-130",
+    "filename": "notes-from-youtube-call-on-violence-and-atrocity-prevention-april-20-2023-ede56beb6bff.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 2",
+        "score": 35.5
+      },
+      {
+        "locator": "Page 3",
+        "score": 69.9
+      },
+      {
+        "locator": "Page 5",
+        "score": 65.4
+      }
+    ],
+    "indexed_date": "2023-04-20",
+    "mirror_date": "2023-04-20"
+  },
+  {
+    "id": "publication-134",
+    "filename": "re-ads-for-by-csos-and-media-and-yt-issue-a6243bbdb0c4.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Email",
+    "text_review_flags": [
+      {
+        "locator": "Page 2",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 3",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 4",
+        "score": 0.0
+      },
+      {
+        "locator": "Page 5",
+        "score": 0.0
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-172",
+    "filename": "re-follow-up-on-meta-tpp-internews-report-d196b7a2384b.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Email",
+    "text_review_flags": [
+      {
+        "locator": "Page 4",
+        "score": 0.0
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-234",
+    "filename": "re-tomorrow-s-meeting-f404b2d2d3a2.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Email",
+    "text_review_flags": [
+      {
+        "locator": "Page 3",
+        "score": 0.0
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-225",
+    "filename": "re-urgent-request-remove-posts-threatening-ndi-libya-partner-on-facebook-2b66260b6774.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Email",
+    "text_review_flags": [
+      {
+        "locator": "Page 4",
+        "score": 0.0
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-036",
+    "filename": "re-usaid-interaction-chat-on-disinformation-0f89ea3ff8fd.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Email",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-039",
+    "filename": "rebecca-webb-action-memo-flagged-07875cb145d6.pdf",
+    "catalog_kind": "Action memo",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": "2022-04-20",
+    "mirror_date": null
+  },
+  {
+    "id": "publication-040",
+    "filename": "s4d-concept-note-promoting-information-integrity-and-resilience-011623-8821f55c6500.pdf",
+    "catalog_kind": "Concept note",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-041",
+    "filename": "sa-resilience-and-integrity-program-review-draft-report-07-july-2023-e8e17d514404.pdf",
+    "catalog_kind": "Program review",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": "2023-07-07",
+    "mirror_date": "2023-07-07"
+  },
+  {
+    "id": "publication-044",
+    "filename": "soc-for-27-june-information-integrity-and-resilience-ipc-2d5b2c4d250b.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-043",
+    "filename": "soc-ii-r-ipc-usaid-response-22july2022-d51af1c54073.pdf",
+    "catalog_kind": "Summary of conclusions",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": "2022-07-22",
+    "mirror_date": "2022-07-22"
+  },
+  {
+    "id": "publication-046",
+    "filename": "sub-ipc-on-tech-atrocity-prevention-key-events-26070e5ab7d2.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-241",
+    "filename": "talking-points-and-asks-for-google-and-youtube-e0c2dabe86a6.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Briefing",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-242",
+    "filename": "tech-hr-defenders-mapping-spreadsheet-working-draft-45f510733cb1.xlsx",
+    "catalog_kind": "Spreadsheet",
+    "mirror_kind": "Spreadsheet",
+    "text_review_flags": [
+      {
+        "locator": "Company Practices!M4",
+        "reason": "cell text differs"
+      },
+      {
+        "locator": "Initiatives!E2",
+        "reason": "cell text differs"
+      },
+      {
+        "locator": "Initiatives!K28",
+        "reason": "cell text differs"
+      },
+      {
+        "locator": "Initiatives!N30",
+        "reason": "cell text differs"
+      },
+      {
+        "locator": "Initiatives, row 32!A32",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives, row 32!B32",
+        "reason": "mirror cell missing from local rows"
+      },
+      {
+        "locator": "Initiatives!A32",
+        "reason": "cell missing from mirror export"
+      },
+      {
+        "locator": "Initiatives!B32",
+        "reason": "cell missing from mirror export"
+      }
+    ],
+    "indexed_date": "2020-06-30",
+    "mirror_date": "2020-06-30"
+  },
+  {
+    "id": "publication-047",
+    "filename": "the-other-epidemic-disinformation-webinar-session-2-sanitized-8a13349effc2.mp4",
+    "catalog_kind": "Video",
+    "mirror_kind": "Video",
+    "text_review_flags": [
+      {
+        "locator": "time 1420.240s",
+        "score": 62.2
+      },
+      {
+        "locator": "time 1896.420s",
+        "score": 55.2
+      },
+      {
+        "locator": "time 1933.680s",
+        "score": 49.2
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-060",
+    "filename": "upcoming-meeting-with-da-coleman-on-disinformation-3e9abcb2bb24.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-051",
+    "filename": "update-on-mdm-related-dri-efforts-31ce1bd86da1.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-048",
+    "filename": "usaid-comments-on-electoral-cybersecurity-paper-d449e438698d.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-049",
+    "filename": "usaid-disinformation-primer-3-5-21-final-public-18db212f9db2.pdf",
+    "catalog_kind": "Report",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 1",
+        "score": 24.2
+      },
+      {
+        "locator": "Page 17",
+        "score": 67.4
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-001",
+    "filename": "usaid-only-the-other-epidemic-disinformation-webinar-session-1-79a6af8d07be.mp4",
+    "catalog_kind": "Video",
+    "mirror_kind": "Video",
+    "text_review_flags": [
+      {
+        "locator": "time 3124.340s",
+        "score": 68.3
+      }
+    ],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-050",
+    "filename": "usaid-s4d-concept-note-pro-info-cf8db2517234.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-053",
+    "filename": "vera-zakem-vzakem-usaid-gov-messaged-you-on-google-chat-while-you-were-away-sanitized-196287e5a321.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Chat log",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-052",
+    "filename": "version-for-ifes-elections-and-cybersecurity-paper-oct-2021-w-usaid-comments-f8d301acff4d.pdf",
+    "catalog_kind": "Paper",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-077",
+    "filename": "webinar-today-1-00-p-m-266dde385e09.pdf",
+    "catalog_kind": "Email",
+    "mirror_kind": "Document",
+    "text_review_flags": [],
+    "indexed_date": null,
+    "mirror_date": null
+  },
+  {
+    "id": "publication-054",
+    "filename": "wo-2-democratic-openings-fy-23-country-list-2023-01-10-b97d7fc59a9e.pdf",
+    "catalog_kind": "Document",
+    "mirror_kind": "Document",
+    "text_review_flags": [
+      {
+        "locator": "Page 2",
+        "score": 0.0
+      }
+    ],
+    "indexed_date": "2023-01-10",
+    "mirror_date": "2023-01-10"
+  }
+]
